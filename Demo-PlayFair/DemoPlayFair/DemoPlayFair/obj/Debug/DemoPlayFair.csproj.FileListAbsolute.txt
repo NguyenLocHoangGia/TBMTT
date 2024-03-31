@@ -1,0 +1,22 @@
+D:\Users\Dong\Documents\Visual Studio 2017\Projects\DemoPlayFair\DemoPlayFair\obj\Debug\DemoPlayFair.csprojAssemblyReference.cache
+D:\Users\Dong\Documents\Visual Studio 2017\Projects\DemoPlayFair\DemoPlayFair\obj\Debug\DemoPlayFair.Form1.resources
+D:\Users\Dong\Documents\Visual Studio 2017\Projects\DemoPlayFair\DemoPlayFair\obj\Debug\DemoPlayFair.Properties.Resources.resources
+D:\Users\Dong\Documents\Visual Studio 2017\Projects\DemoPlayFair\DemoPlayFair\obj\Debug\DemoPlayFair.csproj.GenerateResource.cache
+D:\Users\Dong\Documents\Visual Studio 2017\Projects\DemoPlayFair\DemoPlayFair\obj\Debug\DemoPlayFair.csproj.CoreCompileInputs.cache
+D:\Users\Dong\Documents\Visual Studio 2017\Projects\DemoPlayFair\DemoPlayFair\bin\Debug\DemoPlayFair.exe.config
+D:\Users\Dong\Documents\Visual Studio 2017\Projects\DemoPlayFair\DemoPlayFair\bin\Debug\DemoPlayFair.exe
+D:\Users\Dong\Documents\Visual Studio 2017\Projects\DemoPlayFair\DemoPlayFair\bin\Debug\DemoPlayFair.pdb
+D:\Users\Dong\Documents\Visual Studio 2017\Projects\DemoPlayFair\DemoPlayFair\obj\Debug\DemoPlayFair.exe
+D:\Users\Dong\Documents\Visual Studio 2017\Projects\DemoPlayFair\DemoPlayFair\obj\Debug\DemoPlayFair.pdb
+D:\Users\Dong\Desktop\DemoPlayFair\DemoPlayFair\bin\Debug\DemoPlayFair.exe.config
+D:\Users\Dong\Desktop\DemoPlayFair\DemoPlayFair\bin\Debug\DemoPlayFair.exe
+D:\Users\Dong\Desktop\DemoPlayFair\DemoPlayFair\bin\Debug\DemoPlayFair.pdb
+D:\Users\Dong\Desktop\DemoPlayFair\DemoPlayFair\obj\Debug\DemoPlayFair.csprojAssemblyReference.cache
+D:\Users\Dong\Desktop\DemoPlayFair\DemoPlayFair\obj\Debug\DemoPlayFair.Form1.resources
+D:\Users\Dong\Desktop\DemoPlayFair\DemoPlayFair\obj\Debug\DemoPlayFair.Properties.Resources.resources
+D:\Users\Dong\Desktop\DemoPlayFair\DemoPlayFair\obj\Debug\DemoPlayFair.csproj.GenerateResource.cache
+D:\Users\Dong\Desktop\DemoPlayFair\DemoPlayFair\obj\Debug\DemoPlayFair.csproj.CoreCompileInputs.cache
+D:\Users\Dong\Desktop\DemoPlayFair\DemoPlayFair\obj\Debug\DemoPlayFair.exe
+D:\Users\Dong\Desktop\DemoPlayFair\DemoPlayFair\obj\Debug\DemoPlayFair.pdb
+c:\Users\HOANG GIA\Downloads\TBMTT\Demo-PlayFair\DemoPlayFair\DemoPlayFair\obj\Debug\DemoPlayFair.exe
+c:\Users\HOANG GIA\Downloads\TBMTT\Demo-PlayFair\DemoPlayFair\DemoPlayFair\obj\Debug\DemoPlayFair.pdb
